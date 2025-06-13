@@ -1,0 +1,38 @@
+h1{
+  font-weight: 700;
+  font-size: 55px;
+  margin: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+input {
+  width: 100%;
+  /* padding: 12px 20px; */
+  /* margin: 8px 0; */
+  /* box-sizing: border-box; */
+}
+
+.items-container {
+  text-align: left;
+  /* width: 100%;
+  max-width: 600px;
+  margin: auto; */
+}
+
+.suman-row {
+  margin: 10px 5px;
+  /* display: flex; */
+  /* justify-content: space-between; */
+  /* align-items: center; */
+  /* margin-bottom: 10px; */
+}
+
+.suman-btn {
+  /* background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px; */
+  /* cursor: pointer; */
+  min-width: 80px;
+}
